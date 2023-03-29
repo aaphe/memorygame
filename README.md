@@ -1,2 +1,2 @@
 # memorygame
-Repo for Physicist-Memorygame created in Programmiing 1 -course
+Repo for Physicist-Memorygame created in Programming 1 -course
