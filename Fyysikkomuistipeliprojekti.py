@@ -1,5 +1,4 @@
-# TIE-02100 Johdatus ohjelmointiin
-# Aapo Hetemaa, 283527, aapo.hetemaa@tuni.fi
+# TIE-02100 Johdatus ohjelmointiin, kevät 2020
 # Tehtävä 13.10, Skaalautuva graafinen kayttoliittyma -projekti Tkinterilla
 
 # Fyysikkomuistipeli:
