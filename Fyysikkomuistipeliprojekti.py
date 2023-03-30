@@ -1,4 +1,5 @@
 # TIE-02100 Johdatus ohjelmointiin, kevät 2020
+# Aapo Hetemaa
 # Tehtävä 13.10, Skaalautuva graafinen kayttoliittyma -projekti Tkinterilla
 
 # Fyysikkomuistipeli:
